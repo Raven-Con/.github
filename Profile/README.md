@@ -86,7 +86,7 @@ Our solutions serve diverse industries from agriculture to finance, with emphasi
 ---
 
 
-**🤝 Let's Build Something Amazing Together**
+** Let's Build Something Amazing Together**
 
 Transforming ideas into intelligent solutions • [Contact Us](samzwana@gmail.com)
 
