@@ -1,4 +1,4 @@
-# Raven Consulting 🚀
+# Raven Consulting 
 
 [![GitHub followers](https://img.shields.io/github/followers/ravenconsulting?style=social)](https://github.com/ravenconsulting)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/company/ravenconsulting)
@@ -13,7 +13,7 @@ We specialize in transforming complex business challenges into intelligent, scal
 ![Cloud](https://img.shields.io/badge/Cloud-AWS%20Certified-yellow)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-blue)
 
-## 🎯 What We Do
+##  What We Do
 
 **Machine Learning Excellence:**
 - Custom neural network development with PyTorch & TensorFlow
@@ -28,38 +28,38 @@ We specialize in transforming complex business challenges into intelligent, scal
 - Database optimization & server maintenance
 - Firmware updates & system integration
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🥔 **Agricultural Disease Detection Platform** (Flagship)
+###  **Agricultural Disease Detection Platform** (Flagship)
 End-to-end ML system for crop disease diagnosis via smartphone photography
 - **Tech Stack:** PyTorch, TensorFlow, AWS, React Native
 - **Impact:** 94.7% accuracy, 15+ languages, global deployment
 - **Scalability:** Expandable to all crops & animal health diagnostics
 
-### 🔒 **Multi-Algorithm Fraud Detection**
+###  **Multi-Algorithm Fraud Detection**
 Comprehensive comparison of 4 ML approaches (RNN, CNN, Logistic Regression, Random Forest)
 - **Performance:** 96.2% accuracy with 0.003% false positive rate
 - **Applications:** Finance, insurance, supply chain, research integrity
 
-### 👤 **Custom Facial Recognition System**
+###  **Custom Facial Recognition System**
 Built-from-scratch identity verification using advanced computer vision
 - **Framework:** Built with inate face_rec module
 - **Features:** Real-time processing, 99.7% accuracy, edge deployment, test ready
 - **Use Cases:** Agricultural access control, livestock ID, research facilities
 
-### 🖼️ **Image & Video Enhancement Suite**
+###  **Image & Video Enhancement Suite**
 Dual-framework enhancement systems for visual data optimization
 - **Capabilities:** 4x super-resolution, noise reduction, video stabilization
 - **Applications:** Agricultural monitoring, scientific research, quality control
 
-## 🔬 Our Approach
+##  Our Approach
 
 - **Research-Driven:** Systematic experimentation & rigorous validation
 - **Cross-Domain Innovation:** Applying techniques across diverse industries  
 - **Scalable Architecture:** Cloud-native, microservice-based solutions
 - **Continuous Learning:** Self-improving systems with automated retraining
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **ML/AI:** PyTorch • TensorFlow • Scikit-learn • OpenCV • CUDA  
 **Cloud:** AWS (Lambda, S3, RDS, CloudFront) • Docker • Kubernetes  
@@ -67,7 +67,7 @@ Dual-framework enhancement systems for visual data optimization
 **Databases:** PostgreSQL • MongoDB • Redis • Elasticsearch  
 **DevOps:** CI/CD • Monitoring • Auto-scaling • Performance optimization
 
-## 🌍 Impact
+##  Impact
 
 Our solutions serve diverse industries from agriculture to finance, with emphasis on:
 - **Real-world problem solving** with measurable impact
@@ -75,30 +75,19 @@ Our solutions serve diverse industries from agriculture to finance, with emphasi
 - **Scalable platforms** that grow with client needs
 - **Cross-industry applications** maximizing solution value
 
-## 📈 Why Choose Raven Consulting?
+##  Why Choose Raven Consulting?
 
-✅ **Proven Expertise:** Portfolio spanning multiple industries & use cases  
-✅ **End-to-End Solutions:** From research to production deployment  
-✅ **Innovative Approach:** Custom algorithms tailored to specific needs  
-✅ **Scalable Technology:** Future-proof architectures that evolve  
-✅ **Measurable Results:** Focus on practical impact & ROI  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Raven Consulting's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravenconsulting&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravenconsulting&layout=compact&theme=radical)](https://github.com/ravenconsulting)
-
-</div>
+ **Proven Expertise:** Portfolio spanning multiple industries & use cases  
+ **End-to-End Solutions:** From research to production deployment  
+ **Innovative Approach:** Custom algorithms tailored to specific needs  
+ **Scalable Technology:** Future-proof architectures that evolve  
+ **Measurable Results:** Focus on practical impact & ROI  
 
 ---
+
 
 **🤝 Let's Build Something Amazing Together**
 
-Transforming ideas into intelligent solutions • [Contact Us](mailto:contact@ravenconsulting.com)
+Transforming ideas into intelligent solutions • [Contact Us](samzwana@gmail.com)
 
 *Raven Consulting - Where Innovation Meets Implementation*
