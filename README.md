@@ -43,8 +43,8 @@ Comprehensive comparison of 4 ML approaches (RNN, CNN, Logistic Regression, Rand
 
 ### 👤 **Custom Facial Recognition System**
 Built-from-scratch identity verification using advanced computer vision
-- **Framework:** PyTorch with custom CNN architectures
-- **Features:** Real-time processing, 99.7% accuracy, edge deployment
+- **Framework:** Built with inate face_rec module
+- **Features:** Real-time processing, 99.7% accuracy, edge deployment, test ready
 - **Use Cases:** Agricultural access control, livestock ID, research facilities
 
 ### 🖼️ **Image & Video Enhancement Suite**
